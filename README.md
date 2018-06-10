@@ -1,1 +1,1 @@
-Solutions to ProjectEuler Problems
+Solutions for ProjectEuler Problems
